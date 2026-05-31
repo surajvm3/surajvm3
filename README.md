@@ -1,5 +1,8 @@
 ## Hi there 👋
 
+- I'm Suraj, Software Engineer, Data Platform team at [GreyOrange](https://www.greyorange.com/).
+- Personal Github: [surajv311](https://github.com/Surajv311)
+
 <!--
 **surajvm3/surajvm3** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
